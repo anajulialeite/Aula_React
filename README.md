@@ -9,6 +9,6 @@
 <br>
 Aula sobre react do dia 13/11. O objetivo dessa aula foi construir um projeto em react para criar um sistema de login.
 
-# License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
