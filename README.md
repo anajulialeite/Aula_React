@@ -5,8 +5,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="icon" align="left" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="icon" align="left" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  alt="icon" align="center" width="50"/>
-
 <br>
+
 Aula sobre react do dia 13/11/2024, o objetivo dessa aula foi construir um projeto em react para criar um sistema de login.
 
 ## License
